@@ -1,0 +1,12 @@
+.resident {
+    border-radius: 0.5em;
+    background-color: #062226;
+    overflow: hidden;
+}
+.resident_header {
+    position: relative;
+}
+.resident_container-status {
+    position: absolute;
+    top: 0;
+}
